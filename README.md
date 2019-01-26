@@ -5,14 +5,18 @@
 ## Raspbian clean image
 
 https://www.raspberrypi.org/downloads/raspbian/
+
 Raspbain stretch lite (no desktop)
+
 PiFiller (http://ivanx.com/raspberrypi/)
 
 
 ## first login 
 
 ssh pi@raspberrypi (192.168.11.202)
+
 user: pi  default pw: raspberry
+
 passwd pour changer le mot de passe
 
 
